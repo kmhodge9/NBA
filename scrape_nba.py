@@ -187,9 +187,4 @@ if __name__ == "__main__":
     main()
 ```
 
-## Step 3: Create requirements.txt
 
-Create a file named `requirements.txt`:
-```
-pandas>=2.0.0
-requests>=2.31.0
